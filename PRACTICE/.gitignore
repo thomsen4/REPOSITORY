@@ -3,4 +3,6 @@ test3.js
 test.js
 test_ignore.js
 gitignore.js
+index.js
+html*
 
